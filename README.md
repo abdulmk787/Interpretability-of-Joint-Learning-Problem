@@ -1,5 +1,5 @@
-# joint-learning-interpretability
-My paper titled "Interpretability of a Joint Learning Problem" based on this project was published in the International Research Conference on IoT, Cloud and Data Science held on April 28th-29th, 2023.
+# Interpretability of a Joint Learning Problem
+The paper titled "Interpretability of a Joint Learning Problem" based on this project was published in the International Research Conference on IoT, Cloud and Data Science held on April 28th-29th, 2023.
 
 This project focuses on identifying whether Twitter can be used as a reliable source during a natural calamity by utilizing the social graph as well as by understanding the text.
 Further, look into the interpretability of this model.
